@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item">
+        <item>帽子</item>
+        <item>衣服</item>
+        <item>褲子</item>
+        <item>襪子</item>
+        <item>鞋子</item>
+    </string-array>
+
+    <string-array name="item1">
+        <item>早餐</item>
+        <item>中餐</item>
+        <item>晚餐</item>
+        <item>宵夜</item>
+    </string-array>
+
+    <string-array name="item2">
+        <item>油錢</item>
+        <item>火車錢</item>
+        <item>計程車錢</item>
+    </string-array>
+
+    <string-array name="item3">
+        <item>KTV</item>
+        <item>酒吧</item>
+        <item>球賽</item>
+        <item>遊戲</item>
+        <item>其他</item>
+    </string-array>
+
+    <string-array name="item4">
+        <item>其他</item>
+    </string-array>
+
+
+</resources>
